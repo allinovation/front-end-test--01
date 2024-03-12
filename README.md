@@ -1,4 +1,4 @@
-> ![Logo Kinvo](https://github.com/cbfranca/kinvo-front-end-test/blob/master/logo.svg)
+
 
 # Desafio Front-end Web
 
@@ -15,7 +15,7 @@ Faça o download AdobeXD por aqui](https://helpx.adobe.com/br/xd/get-started.htm
 
 ### Critérios de avaliação:
 
-Nossos critérios de avaliação se baseiam e 3 grandes áreas, sendo elas:
+Os critérios de avaliação se baseiam e 3 grandes áreas, sendo elas:
 1. Versionamento
 2. Projeto e estrutura
 3. Qualidade de Código
@@ -57,7 +57,5 @@ Nossos critérios de avaliação se baseiam e 3 grandes áreas, sendo elas:
 - Lembre-se de fazer um _fork_ deste repositório! Apenas cloná-lo vai te impedir de criar o _pull request_ e dificultar a entrega;
 
 ---
-
-Está com alguma dificuldade, encontrou algum problema no desafio ou tem alguma sugestão pra gente? Crie uma [issue](https://github.com/kinvoapp/kinvo-front-end-test/issues) e descreva o que achar necessário.
 
 **Sucesso!**
